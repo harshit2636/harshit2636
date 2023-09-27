@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey Everyone 👋, I'm Harshit Joshi</h1>
-<div align="center"> <img width="300" style = "border-radius: 100%;" src="https://github.com/harshit2636/harshit2636/blob/d52bb61308ae9d25b31eebb4f76754840a5a6958/mukku.JPG"> </div>
+<h1 align="center">Hey Everyone 👋, I'm HArshit Joshi</h1>
+<div align="center"> <img width="300" style = "border-radius: 100%;" src=""> </div>
 <h3 align="center">A passionate Web Devloper From India. I am currently a Engineering student.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
