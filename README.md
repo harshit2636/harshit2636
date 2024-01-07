@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshit2636](https://github.com/harshit2636)
 
-- 💬 Ask me about **HTML5,Bootstrap,Tailwind,Java,Python,C++,Javascript.**
+- 💬 Ask me about **HTML5,Bootstrap,Tailwind,Java,Python,C++,C,Javascript.**
 
 - 📫 How to reach me **harshitjoshi644@gmail.com**
 
