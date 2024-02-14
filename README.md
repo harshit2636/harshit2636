@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Devloper From India. I am currently a Engineering student.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src=" alt="Harshit" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/487bbe45122e71dfb8723778c29f948c77b4c9ce05625f1814b66ab435c1885b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d756b65736870616e64657930323836266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" "alt="Harshit" /> </p>
 
 - 🔭 I’m currently working on **Amazon Clone**
 
