@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Harshit Joshi</h1>
-<div align="center"> <img width="300" style = "border-radius: 100%;" src=""> </div>
+<div align="center"> <img width="300" style = "border-radius: 100%;" src="Phone/Pictures/Picsart/IMG_20240111_151049.jpg"> </div>
 <h3 align="center">A passionate Web Devloper From India. I am currently a Engineering student.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshit2636](https://github.com/harshit2636)
 
-- 💬 Ask me about **HTML5,Bootstrap,Tailwind,Java,Python,C++,C,Javascript.**
+- 💬 Ask me about **HTML5,Bootstrap,Tailwind,GSAP,Java,Python,C++,C,Javascript.**
 
 - 📫 How to reach me **harshitjoshi644@gmail.com**
 
