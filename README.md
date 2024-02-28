@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshit2636](https://github.com/harshit2636)
 
-- 💬 Ask me about **HTML5,Bootstrap,Tailwind,GSAP,Java,Python,C++,C,Javascript.**
+- 💬 Ask me about **HTML5,Bootstrap,Tailwind,BootStrap,React,GSAP,Java,Python,C,Javascript.**
 
 - 📫 How to reach me **harshitjoshi644@gmail.com**
 
@@ -24,7 +24,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshit-joshi-5879ab255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshu" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit_hj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harshu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCALXu-gdn4PUm24GndFcw1A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Harshu" height="30" width="40" /></a>
-  
+<a href="https://instagram.com/harshit_hj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harshit" height="30" width="40" /></a>
 </p>
