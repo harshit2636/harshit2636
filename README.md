@@ -25,5 +25,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/harshit-joshi-5879ab255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harshu" height="30" width="40" /></a>
 <a href="https://instagram.com/harshit_hj_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harshit" height="30" width="40" /></a>
-  <a href="ttps://x.com/Harshit43802598?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshit" height="30" width="40" /></a>
+  <a href="https://x.com/Harshit43802598?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harshit" height="30" width="40" /></a>
 </p>
