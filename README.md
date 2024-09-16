@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Devloper From India. I am currently a Engineering student.</h3>
 
 
-<p align="left"> <img src="https://camo.githubusercontent.com/487bbe45122e71dfb8723778c29f948c77b4c9ce05625f1814b66ab435c1885b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d756b65736870616e64657930323836266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" "alt="Harshit" /> </p>
+<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="330">
 
 - 🔭 I’m currently working on **TOUR AND TRAVELLING WEBSITE **
 
