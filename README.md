@@ -2,7 +2,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Harshit Joshi</h1>
 <div align="center"> <img width="300" style = "border-radius: 100%;" src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kZXJ8ZW58MHx8MHx8fDA%3D"> </div>
 <h3 align="center">A passionate Data Analyst|Business Analytics Enthusiast from India. </h3>
- <h3> I am currently a Engineering student.</h3>
+ <h3 align="center"> I am currently a Engineering student.</h3>
 <h3 align="center">Turning raw data into valuable business insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="hj" /> </p>
