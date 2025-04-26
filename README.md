@@ -1,18 +1,21 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Harshit Joshi</h1>
 <div align="center"> <img width="300" style = "border-radius: 100%;" src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kZXJ8ZW58MHx8MHx8fDA%3D"> </div>
-<h3 align="center">A passionate Web Devloper From India. I am currently a Engineering student.</h3>
+<h3 align="center">A passionate Data Analyst | Business Analytics Enthusiast from India. I am currently a Engineering student.</h3>
+<h3 align="center">Turning raw data into valuable business insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="mukku" /> </p>
-- 🔭 I’m currently working on **TOUR AND TRAVELLING WEBSITE **
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mukeshpandey0286&label=Profile%20views&color=0e75b6&style=flat" alt="hj" /> </p>
+🎯 Passionate about Data Analytics, Business Intelligence, and solving real-world business problems.
 
-- 🌱 I’m currently learning **DSA IN Java**
+📊 Skilled in Excel, SQL, Power BI, Python .
 
-- 👯 I’m looking to collaborate on **eCommerce Website**
+🚀 Currently learning  SQL and Predictive Analytics.
+
+🧠 Love working with data cleaning, visualization, KPI dashboards, and actionable reporting
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshit2636](https://github.com/harshit2636)
 
-- 💬 Ask me about **HTML5,Bootstrap,Tailwind,BootStrap,React,GSAP,Java,Python,C,Javascript.**
+- 💬 Ask me about **HTML5,Bootstrap,Tailwind,BootStrap,GSAP,Excel,PowerBI,Java,Python,Javascript.**
 
 - 📫 How to reach me **harshitjoshi644@gmail.com**
 
